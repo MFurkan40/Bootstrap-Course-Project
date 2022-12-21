@@ -16,6 +16,10 @@
   color: var(--red);
 }
 
+.icon-name {
+  font-size: 1.6rem !important;
+}
+
 /*! ------------- 2- CAROUSEL --------------- */
 .carousel-item {
   max-height: calc(100vh - 88px);
