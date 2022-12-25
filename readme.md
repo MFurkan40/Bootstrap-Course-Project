@@ -1,3 +1,3 @@
 # Bootstrap Project
 
-https://bootstrapcw.netlify.app/
+https://mfurkan40.github.io/Bootstrap-Course-Project/
